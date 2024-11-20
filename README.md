@@ -1,4 +1,8 @@
-## Hi there 👋
+_My usable projects are now located at [github.com/clover-moe](https://github.com/clover-moe)._
+
+## About
+
+I'm a hobby software dev. I may work on open source software occasionally but I'm generally focusing on other things at this phase of my life.
 
 <!--
 **zturtleman/zturtleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
